@@ -17,18 +17,3 @@ public class ModelUser {
         }
     }
 }
-
-//    int index = -1;
-//    public void insertUser(String Username, String Password){
-//        NodeUser objUser = new NodeUser(Username, Password);
-//        Db.getUsers().add(objUser);
-//        this.index++;
-//    }
-//
-//    public static void viewUsers(){
-//        for (NodeUser users : Db.getUsers()){
-//            users.viewUser();
-//            System.out.println("--------------------------");
-//        }
-//    }
-//}
